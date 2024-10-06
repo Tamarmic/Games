@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="CheckStyle-IDEA-Module">
-    <option name="configuration">
-      <map />
-    </option>
-  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -12,14 +7,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/biuoop-1.4.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="biuoop-1.5" level="project" />
+    <orderEntry type="library" name="Ass3" level="project" />
+    <orderEntry type="library" name="Ass2" level="project" />
+    <orderEntry type="library" name="biuoop-1.6" level="project" />
+    <orderEntry type="library" name="Ass5" level="project" />
+    <orderEntry type="library" name="Ass6" level="project" />
+    <orderEntry type="library" name="biuoop-1.4" level="project" />
+    <orderEntry type="library" name="biuoop-1.7" level="project" />
   </component>
 </module>

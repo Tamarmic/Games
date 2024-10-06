@@ -17,6 +17,7 @@ Welcome to my Snake Game! In this game, you'll control a snake that slithers aro
 
 
 <img src="pic/Snake_2.png" alt="Gameplay Example" width="300"/>
+
 ## Game Features
 
 - **Snake Movement:** Control the snake using the arrow keys.

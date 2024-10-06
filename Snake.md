@@ -30,4 +30,4 @@ Welcome to my Snake Game! In this game, you'll control a snake that slithers aro
 ## Installation and Running
 
 1. Clone or download the repository.
-2. Run the game by executing the Java script 'Game'  in the `Snake/src` folder.
+2. Run the game by executing the Java script `Game`  in the `Snake/src` folder.

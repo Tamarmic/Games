@@ -4,7 +4,8 @@
 
 Welcome to my Snake Game! In this game, you'll control a snake that slithers around a board. Your goal is to eat the fruits that appear on the board. But be careful! If you touch the walls or the snake runs into itself, the game will end. Each time you eat a fruit, your snake will grow longer, making the game more challenging and exciting!
 
-![Title Screen](pic/Snake_1.png)
+
+<img src="pic/Snake_1.png" alt="Title Screen" width="300"/>
 
 ## How to Play
 
@@ -14,8 +15,8 @@ Welcome to my Snake Game! In this game, you'll control a snake that slithers aro
 4. Every time the snake eats a fruit, it gets longer, increasing the difficulty.
 5. The game ends when the snake hits a wall or collides with itself.
 
-![Gameplay Example](pic/Snake_2.png)
 
+<img src="pic/Snake_2.png" alt="Gameplay Example" width="300"/>
 ## Game Features
 
 - **Snake Movement:** Control the snake using the arrow keys.
